@@ -40,10 +40,6 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
 - We don't prefer hosting large parties and strive to maintain the house as an intimate space where small groups can gather and enjoy meaningful conversations.
 - The hacker house does not support team building. Please apply to ETH Tokyo individually. Even if you apply as a team, the entire team cannot participate together (each team member will be evaluated individually).
 
-## Application
-
-Event application portal: (Link yet to be added)
-
 ## Sponsorship
 
 One package: $4,000
