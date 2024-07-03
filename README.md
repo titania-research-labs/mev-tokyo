@@ -2,11 +2,11 @@
 <img width="993" alt="mevtokyo" src="ogp.png">
 https://docs.google.com/presentation/d/11pwYl41WdwQQGujyBmF1FU6sb97FVByZn75HsTBOBqA/edit?usp=sharing
 
-## Overview
+## Overview 📝
 
 - MEV TOKYO is an Ethereum hacker house and event held in Tokyo. It focuses on exploring issues such as MEV, staking, and LVR.
 
-- The hacker house will run from August 21-28, with side events taking place on the 25th and 26th.
+- The hacker house will run from Aug 21 - 28, with side events taking place on the 25th and 26th.
 
 - Organized by Titania Research, it will bring together Ethereum researchers, engineers, and community members.
 
@@ -17,25 +17,25 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
 
 ## Facilities and Program 🖥️
 
-### Hacker House (Shibuya Area) 🏠
+### Hacker House (at Shibuya) 🏠: Aug 21 - 28
 - 8 private rooms
 - Capacity for 10-15 people
 - Short-term research house for those involved in Ethereum incentives
 - Discounted stays available for community members (closed space, not openly recruited)
 - Hacker house participants have access to [coworking space](https://centrum.studio/)
-- Runs from August 21-28
+- Runs from Aug 21 - 28
 
-### Events 🎫
+### Events 🎫 : Aug 25 - 26
 - Creating a space for discussion by inviting researchers, engineers, and Ethereum stakeholders from around the world as speakers
-- Held on August 24-25
+- Held on Aug 25 and 26
 - Venue: [Centrum](https://centrum.studio/)
 
-#### August 25: Protocol DAY
+#### Aug 25 (Sun): Protocol DAY
 - Content related to protocol incentives such as PBS, MVI, and timing games
 - Speakers: 4 people
   - (To be added as confirmed)
 
-#### August 26: Application DAY
+#### Aug 26 (Mon): Application DAY
 - Content related to application incentives such as LVR and Intents
 - Speakers: 4 people
   - (To be added as confirmed)
@@ -52,15 +52,16 @@ One package: $4,000
 
 - Ability to stay at the hacker house
 - Distribution of swag and flyers
-- Opportunity for a 5-10 minute speech
+- Opportunity for a lightning talk at the event
 
 
 ## Past Activities 📜
 ### MEV Tokyo Salon
 - Gathered about 60 [participants](https://x.com/keccak254/status/1716307800316608721) for discussions on MEV.
+- It was held in Tokyo on Oct 21, 2023.
 
 ### Titania Research House
-- A small share house where researchers & engineer gathered.
+- A small share house where researchers & engineers gathered.
 - Had about 30 visitors and hosted [several events](https://note.com/vita5/n/n4da1314c89ed).
 
 
