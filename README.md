@@ -1,5 +1,5 @@
 # MEV TOKYO 🗼🚀
-<img width="993" alt="mevtokyo" src="https://github.com/titania-research-labs/mev-tokyo/assets/163550206/fff3c9d4-be46-402e-8e52-ab8be8389a44">
+<img width="993" alt="mevtokyo" src="ogp.png">
 https://docs.google.com/presentation/d/11pwYl41WdwQQGujyBmF1FU6sb97FVByZn75HsTBOBqA/edit?usp=sharing
 
 ## Overview
@@ -10,13 +10,14 @@ https://docs.google.com/presentation/d/11pwYl41WdwQQGujyBmF1FU6sb97FVByZn75HsTBO
 
 - Organized by Titania Research, it will bring together Ethereum researchers, engineers, and community members.
 
-## Purpose
+## Purpose 🧭
 
 The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing practical insights and facilitating discussions on complex issues. By examining incentive problems from both protocol and application perspectives, we aim to create opportunities for new insights and realizations. We provide a space for emergent community discussions, promoting problem-solving to expand Ethereum as a free space for humanity.
 
-## Facilities and Program
 
-### Hacker House (Shibuya Area)
+## Facilities and Program 🖥️
+
+### Hacker House (Shibuya Area) 🏠
 - 8 private rooms
 - Capacity for 10-15 people
 - Short-term research house for those involved in Ethereum incentives
@@ -24,8 +25,7 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
 - Hacker house participants have access to [coworking space](https://centrum.studio/)
 - Runs from August 21-28
 
-
-### Events
+### Events 🎫
 - Creating a space for discussion by inviting researchers, engineers, and Ethereum stakeholders from around the world as speakers
 - Held on August 24-25
 - Venue: [Centrum](https://centrum.studio/)
@@ -40,11 +40,13 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
 - Speakers: 4 people
   - (To be added as confirmed)
 
-## What We Are Not
+
+## What We Are Not 🚧
 - We don't prefer hosting large parties and strive to maintain the house as an intimate space where small groups can gather and enjoy meaningful conversations.
 - The hacker house does not support team building. Please apply to ETH Tokyo individually. Even if you apply as a team, the entire team cannot participate together (each team member will be evaluated individually).
 
-## Sponsorship
+
+## Sponsorship 🤝
 
 One package: $4,000
 
@@ -52,7 +54,8 @@ One package: $4,000
 - Distribution of swag and flyers
 - Opportunity for a 5-10 minute speech
 
-## Past Activities
+
+## Past Activities 📜
 ### MEV Tokyo Salon
 - Gathered about 60 [participants](https://x.com/keccak254/status/1716307800316608721) for discussions on MEV.
 
@@ -60,7 +63,8 @@ One package: $4,000
 - A small share house where researchers & engineer gathered.
 - Had about 30 visitors and hosted [several events](https://note.com/vita5/n/n4da1314c89ed).
 
-## House Pictures
+
+## House Pictures 🏡
 ![house picture](assets/image.png)
 
 ![house picture](assets/image-1.png)
