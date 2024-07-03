@@ -48,11 +48,16 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
 
 ## Sponsorship 🤝
 
-One package: $4,000
+One package: 
 
-- Ability to stay at the hacker house
-- Distribution of swag and flyers
-- Opportunity for a lightning talk at the event
+1. $2,000
+    - Ability to stay at the hacker house
+    - Distribution of swag and flyers
+
+2. $4,000
+    - Ability to stay at the hacker house
+    - Distribution of swag and flyers
+    - Opportunity for a lightning talk at the event
 
 
 ## Past Activities 📜
