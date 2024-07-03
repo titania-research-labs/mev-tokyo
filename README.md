@@ -1,4 +1,6 @@
 # MEV TOKYO 🗼🚀
+<img width="993" alt="mevtokyo" src="https://github.com/titania-research-labs/mev-tokyo/assets/163550206/fff3c9d4-be46-402e-8e52-ab8be8389a44">
+https://docs.google.com/presentation/d/11pwYl41WdwQQGujyBmF1FU6sb97FVByZn75HsTBOBqA/edit?usp=sharing
 
 ## Overview
 
@@ -19,19 +21,21 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
 - Capacity for 10-15 people
 - Short-term research house for those involved in Ethereum incentives
 - Discounted stays available for community members (closed space, not openly recruited)
-- Hacker house participants have access to coworking space
+- Hacker house participants have access to [coworking space](https://centrum.studio/)
 - Runs from August 21-28
+
 
 ### Events
 - Creating a space for discussion by inviting researchers, engineers, and Ethereum stakeholders from around the world as speakers
 - Held on August 24-25
+- Venue: [Centrum](https://centrum.studio/)
 
-### August 25: Protocol DAY
+#### August 25: Protocol DAY
 - Content related to protocol incentives such as PBS, MVI, and timing games
 - Speakers: 4 people
   - (To be added as confirmed)
 
-### August 26: Application DAY
+#### August 26: Application DAY
 - Content related to application incentives such as LVR and Intents
 - Speakers: 4 people
   - (To be added as confirmed)
@@ -50,11 +54,11 @@ One package: $4,000
 
 ## Past Activities
 ### MEV Tokyo Salon
-- Gathered about 60 participants for discussions on MEV.
+- Gathered about 60 [participants](https://x.com/keccak254/status/1716307800316608721) for discussions on MEV.
 
 ### Titania Research House
-- A small share house where Ethereum researchers gathered.
-- Had about 30 visitors and hosted several events.
+- A small share house where researchers & engineer gathered.
+- Had about 30 visitors and hosted [several events](https://note.com/vita5/n/n4da1314c89ed).
 
 ## House Pictures
 ![house picture](assets/image.png)
