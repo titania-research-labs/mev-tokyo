@@ -6,7 +6,7 @@ https://docs.google.com/presentation/d/11pwYl41WdwQQGujyBmF1FU6sb97FVByZn75HsTBO
 
 - MEV TOKYO is an Ethereum hacker house and event held in Tokyo. It focuses on exploring issues such as MEV, staking, and LVR.
 
-- The hacker house will run from Aug 21 - 28, with side events taking place on the 25th and 26th.
+- The hacker house will run from Aug 20 - 27, with side events taking place on the 25th and 26th.
 
 - Organized by Titania Research, it will bring together Ethereum researchers, engineers, and community members.
 
@@ -17,13 +17,13 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
 
 ## Facilities and Program 🖥️
 
-### Hacker House (at Shibuya) 🏠: Aug 21 - 28
+### Hacker House (at Shibuya) 🏠: Aug 20 - 27
 - 8 private rooms
 - Capacity for 10-15 people
 - Short-term research house for those involved in Ethereum incentives
 - Discounted stays available for community members (closed space, not openly recruited)
 - Hacker house participants have access to [coworking space](https://centrum.studio/)
-- Runs from Aug 21 - 28
+- Runs from Aug 21 - 27
 
 ### Events 🎫 : Aug 25 - 26
 - Creating a space for discussion by inviting researchers, engineers, and Ethereum stakeholders from around the world as speakers
