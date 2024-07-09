@@ -4,9 +4,9 @@ https://docs.google.com/presentation/d/11pwYl41WdwQQGujyBmF1FU6sb97FVByZn75HsTBO
 
 ## Overview 📝
 
-- MEV TOKYO is an Ethereum hacker house and event held in Tokyo. It focuses on exploring issues such as MEV, staking, and LVR.
+- MEV TOKYO is an Ethereum research house and event held in Tokyo. It focuses on exploring issues such as MEV, staking, and LVR.
 
-- The hacker house will run from Aug 20 - 27, with side events taking place on the 25 and 26.
+- The research house will run from Aug 20 - 27, with side events taking place on the 25 and 26.
 
 - Organized by Titania Research, it will bring together Ethereum researchers, engineers, and community members.
 
@@ -17,12 +17,12 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
 
 ## Facilities and Program 🖥️
 
-### Hacker House (at Shibuya) 🏠: Aug 20 - 27
+### Research House (at Shibuya) 🏠: Aug 20 - 27
 - 8 private rooms
 - Capacity for 10-15 people
 - Short-term research house for those involved in Ethereum incentives
 - Discounted stays available for community members (closed space, not openly recruited)
-- Hacker house participants have access to [coworking space](https://centrum.studio/)
+- Research house participants have access to [coworking space](https://centrum.studio/)
 - Runs from Aug 20 - 27
 
 ### Events 🎫 : Aug 25 - 26
@@ -43,7 +43,8 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
 
 ## What We Are Not 🚧
 - We don't prefer hosting large parties and strive to maintain the house as an intimate space where small groups can gather and enjoy meaningful conversations.
-- The hacker house does not support team building. Please apply to ETH Tokyo individually. Even if you apply as a team, the entire team cannot participate together (each team member will be evaluated individually).
+- The research house does not support team building. Please apply to ETH Tokyo individually. Even if you apply as a team, the entire team cannot participate together (each team member will be evaluated individually).
+- Our house is not a hacker house, but a research house. It is not a place to work on projects, but a place to discuss and research Ethereum.
 
 
 ## Sponsorship 🤝
@@ -54,7 +55,7 @@ We are looking for sponsors to support the event. There are two sponsorship tier
     - Distribution of swag and flyers
 
 2. $4,000
-    - Ability to stay at the hacker house
+    - Ability to stay at the research house
     - Distribution of swag and flyers
     - Opportunity for a lightning talk at the event
 
