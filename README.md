@@ -8,7 +8,7 @@ https://docs.google.com/presentation/d/11pwYl41WdwQQGujyBmF1FU6sb97FVByZn75HsTBO
 
 - The research house will run from Aug 20 - 27, with side events taking place on the 25 and 26.
 
-- Organized by Titania Research, it will bring together Ethereum researchers, engineers, and community members.
+- Organized by [Titania Research](https://scandalous-stick-9ab.notion.site/Titania-Research-Homepage-587cd20f07b14d259fa7d5c8d9646fc9), it will bring together Ethereum researchers, engineers, and community members.
 
 ## Purpose 🧭
 
@@ -68,6 +68,11 @@ We are looking for sponsors to support the event. There are two sponsorship tier
 ### Titania Research House
 - A small share house where researchers & engineers gathered.
 - Had about 30 visitors and hosted [several events](https://note.com/vita5/n/n4da1314c89ed).
+
+
+## Contact 📞
+This event is organized by [Titania Research](https://scandalous-stick-9ab.notion.site/Titania-Research-Homepage-587cd20f07b14d259fa7d5c8d9646fc9) members, mainly [vita](https://x.com/keccak254) and [banri](https://x.com/banr1_).
+Please contact us at [banri's Twitter DM](https://x.com/banr1_) if you have any questions or would like to sponsor the event.
 
 
 ## House Pictures 🏡
