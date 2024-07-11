@@ -25,7 +25,7 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
 - Research house participants have access to [coworking space](https://centrum.studio/)
 - Runs from Aug 20 - 27
 
-### Events 🎫 : Aug 25 - 26
+### Events 🎫: Aug 25 - 26
 - Creating a space for discussion by inviting researchers, engineers, and Ethereum stakeholders from around the world as speakers
 - Held on Aug 25 and 26
 - Venue: [Centrum](https://centrum.studio/)
