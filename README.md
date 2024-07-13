@@ -31,14 +31,14 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
 - Venue: [Centrum](https://centrum.studio/)
 
 #### Aug 25 (Sun): Protocol DAY
-- Content related to protocol incentives such as PBS, MVI, and timing games
+- Content related to protocol incentives such as PBS, APS, Staking economics and sequencing rules.
 - Speakers: 4 people
   - (To be added as confirmed)
 
 #### Aug 26 (Mon): Application DAY
-- Content related to application incentives such as LVR and Intents
+- Content related to application incentives such as Sequencing (Based Preconfirmation, L2 sequencing),intents, LVR and DEX.
 - Speakers: 4 people
-  - (To be added as confirmed)
+  - ([Yuki](https://x.com/ballsyalchemist),・・・)
 
 
 ## What We Are Not 🚧
@@ -59,6 +59,8 @@ We are looking for sponsors to support the event. There are two sponsorship tier
     - Distribution of swag and flyers
     - Opportunity for a lightning talk at the event
 
+Now we supported by Ethereum Foundation(ESP) and Mycel.
+
 
 ## Past Activities 📜
 ### MEV Tokyo Salon
@@ -67,7 +69,7 @@ We are looking for sponsors to support the event. There are two sponsorship tier
 
 ### Titania Research House
 - A small share house where researchers & engineers gathered.
-- Had about 30 visitors and hosted [several events](https://note.com/vita5/n/n4da1314c89ed).
+- Had about 30 visitors and hosted [several events]((https://titaniaresear.ch/titania-research-house1).
 
 
 ## Contact 📞
