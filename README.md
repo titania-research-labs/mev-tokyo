@@ -36,7 +36,7 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
   - (To be added as confirmed)
 
 #### Aug 26 (Mon): Application DAY
-- Content related to application incentives such as Sequencing (Based Preconfirmation, L2 sequencing),intents, LVR and DEX.
+- Content related to application incentives such as Sequencing (Based Preconfirmation, L2 sequencing), intents, LVR and DEX.
 - Speakers: 4 people
   - ([Yuki](https://x.com/ballsyalchemist),・・・)
 
