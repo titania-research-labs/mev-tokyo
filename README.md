@@ -59,7 +59,7 @@ We are looking for sponsors to support the event. There are two sponsorship tier
     - Distribution of swag and flyers
     - Opportunity for a lightning talk at the event
 
-Now we supported by Ethereum Foundation(ESP) and Mycel.
+Now we are supported by Ethereum Foundation(ESP) and Mycel.
 
 
 ## Past Activities 📜
