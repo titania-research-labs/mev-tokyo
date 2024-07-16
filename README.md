@@ -8,7 +8,7 @@ https://docs.google.com/presentation/d/11pwYl41WdwQQGujyBmF1FU6sb97FVByZn75HsTBO
 
 - The research house will run from Aug 20 - 27, with side events taking place on the 25 and 26.
 
-- Organized by [Titania Research](https://scandalous-stick-9ab.notion.site/Titania-Research-Homepage-587cd20f07b14d259fa7d5c8d9646fc9), it will bring together Ethereum researchers, engineers, and community members.
+- Organized by [Titania Research](https://titaniaresear.ch/), it will bring together Ethereum researchers, engineers, and community members.
 
 ## Purpose 🧭
 
