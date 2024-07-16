@@ -75,7 +75,7 @@ https://noteforms.com/forms/mev-tokyo-form-8cbw2s
 ## Contact 📞
 This event is organized by [Titania Research](https://scandalous-stick-9ab.notion.site/Titania-Research-Homepage-587cd20f07b14d259fa7d5c8d9646fc9) members, mainly [vita](https://x.com/keccak254) and [banri](https://x.com/banr1_).
 
-Please contact us at telegram(keccak255) or [Email](keccak255@gmail.com) if you have any questions or would like to sponsor the event.
+Please contact us at telegram(keccak255) or Email(keccak255@gmail.com) if you have any questions or would like to sponsor the event.
 
 ## House Pictures 🏡
 ![house picture](assets/image.png)
