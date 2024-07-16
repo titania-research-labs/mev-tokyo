@@ -37,7 +37,7 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
 #### Aug 26 (Mon): Application DAY
 - Content related to application incentives such as Sequencing (Based Preconfirmation, L2 sequencing), intents, LVR and DEX.
 - Speakers: 4 people
-  - (To be added as confirmed)
+  - ((alex)[https://x.com/ThogardPvP])
 
 ## What We Are Not 🚧
 - We don't prefer hosting large parties and strive to maintain the house as an intimate space where small groups can gather and enjoy meaningful conversations.
@@ -55,6 +55,7 @@ We are looking for sponsors to support the event. There are two sponsorship tier
     - Ability to stay at the research house
     - Opportunity to distribute your company's swag and flyers to attendees
     - Opportunity for a lightning talk at the event
+    - Invitations to private events with other speakers and sponsors
 
 Now we are supported by Ethereum Foundation (ESP) and Mycel.
 
