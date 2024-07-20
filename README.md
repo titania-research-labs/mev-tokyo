@@ -32,6 +32,7 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
 #### Aug 25 (Sun): Protocol DAY
 - Content related to protocol incentives such as PBS, APS, Staking economics and sequencing rules.
 - Speakers: 4 people
+  - [Tomasz Stanczak](https://x.com/tkstanczak)
   - (To be added as confirmed)
 
 #### Aug 26 (Mon): Application DAY
