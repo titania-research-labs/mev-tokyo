@@ -40,6 +40,7 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
 - Speakers: 4 people
   - [alex](https://x.com/ThogardPvP)
   - [yuki](https://x.com/ballsyalchemist)
+  - [Ugur Mersin](https://x.com/ugurmersin61?s=21&t=aRdEi_d8jttLkTojlCOoLA)
   - (To be added as confirmed)
 
 ## What We Are Not 🚧
