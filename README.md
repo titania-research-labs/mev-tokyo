@@ -33,7 +33,7 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
 - Content related to protocol incentives such as PBS, APS, Staking economics and sequencing rules.
 - Speakers: 4 people
   - [Tomasz Stańczak](https://x.com/tkstanczak) from Nethermind
-  - [barnabé monnot](https://x.com/barnabemonnot) from ethereum foundation
+  - [barnabé monnot](https://x.com/barnabemonnot) from Ethereum Foundation
   - (To be added as confirmed)
 
 #### Aug 26 (Mon): Application DAY
