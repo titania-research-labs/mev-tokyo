@@ -32,15 +32,15 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
 #### Aug 25 (Sun): Protocol DAY
 - Content related to protocol incentives such as PBS, APS, Staking economics and sequencing rules.
 - Speakers: 4 people
-  - [Tomasz Stanczak]from Nethermind(https://x.com/tkstanczak)
-  - [barnabé monnot]from ethereum foundation(https://x.com/barnabemonnot)
+  - [Tomasz Stanczak](https://x.com/tkstanczak) from Nethermind
+  - [barnabé monnot](https://x.com/barnabemonnot) from ethereum foundation
   - (To be added as confirmed)
 
 #### Aug 26 (Mon): Application DAY
 - Content related to application incentives such as Sequencing (Based Preconfirmation, L2 sequencing), intents, LVR and DEX.
 - Speakers: 4 people
-  - [yuki]from Sorella Labs(https://x.com/ballsyalchemist)
-  - [Ugur Mersin]from API3(https://x.com/ugurmersin61?s=21&t=aRdEi_d8jttLkTojlCOoLA)
+  - [yuki](https://x.com/ballsyalchemist) from Sorella Labs
+  - [Ugur Mersin](https://x.com/ugurmersin61?s=21&t=aRdEi_d8jttLkTojlCOoLA) from API3
   - (To be added as confirmed)
 
 ## What We Are Not 🚧
