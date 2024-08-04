@@ -34,6 +34,7 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
 - Speakers: 4 people
   - [Tomasz Stańczak](https://x.com/tkstanczak) from Nethermind
   - [Barnabé Monnot](https://x.com/barnabemonnot) from Ethereum Foundation
+  - [Taetaehoho](https://x.com/0xtaetaehoho) from Eclipse
   - (To be added as confirmed)
 
 #### Aug 26 (Mon): Application DAY
