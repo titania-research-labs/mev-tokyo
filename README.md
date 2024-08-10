@@ -52,7 +52,9 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
 ## Sponsorship 🤝
 
 <img width="300" alt="ethereum-foundation" src="https://github.com/user-attachments/assets/323c1748-2fe0-4bf1-a9f7-526cdfb7c4e9">
+
 <img width="300" alt="mycel" src="https://github.com/user-attachments/assets/9244433a-39d5-44bf-8a20-c4c2af51b935">
+
 <img width="300" alt="api3" src="https://github.com/user-attachments/assets/4e912e5a-e8f1-42f2-82e3-f195beed4d21">
 
 Now we are supported by Ethereum Foundation (ESP) and Mycel, API3.
