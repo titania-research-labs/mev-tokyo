@@ -30,6 +30,8 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
 - Venue: [Centrum](https://centrum.studio/)
 
 #### Aug 25 (Sun): Protocol DAY
+![mev-day-protocol](assets/mev-day-protocol.png)
+
 - Content related to protocol incentives such as PBS, APS, Staking economics and sequencing rules.
 - Speakers:
   - [Tomasz Stańczak](https://x.com/tkstanczak) from Nethermind
@@ -37,12 +39,22 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
   - [taetaehoho](https://x.com/0xtaetaehoho) from Eclipse
   - (To be added as confirmed)
 
+If you are interested in attending the event, please apply using the following page:
+
+https://lu.ma/ei1byzjh
+
 #### Aug 26 (Mon): Application DAY
+![mev-day-application](assets/mev-day-application.png)
+
 - Content related to application incentives such as Sequencing (Based Preconfirmation, L2 sequencing), intents, LVR and DEX.
 - Speakers: 
   - [Yuki Yuminaga](https://x.com/ballsyalchemist) from Sorella Labs
   - [Ugur Mersin](https://x.com/ugurmersin61?s=21&t=aRdEi_d8jttLkTojlCOoLA) from API3
   - (To be added as confirmed)
+
+If you are interested in attending the event, please apply using the following page:
+
+https://lu.ma/9ha1tvgh
 
 ## What We Are Not 🚧
 - We don't prefer hosting large parties and strive to maintain the house as an intimate space where small groups can gather and enjoy meaningful conversations.
