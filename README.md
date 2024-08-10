@@ -51,7 +51,7 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
 
 ## Sponsorship 🤝
 
-Now we are supported by Ethereum Foundation (ESP) and Mycel API3.
+Now we are supported by Ethereum Foundation (ESP) and Mycel, API3.
 
 ## Application Form 📝
 If you are interested in being a speaker, sponsor, or staying at the house, please apply using the following form:
