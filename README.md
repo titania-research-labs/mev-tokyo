@@ -51,18 +51,7 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
 
 ## Sponsorship 🤝
 
-We are looking for sponsors to support the event. There are two sponsorship tiers:
-
-1. $2,000
-    - Opportunity to distribute your company's swag and flyers to attendees
-
-2. $4,000
-    - Ability to stay at the research house
-    - Opportunity to distribute your company's swag and flyers to attendees
-    - Opportunity for a lightning talk at the event
-    - Invitations to private events with other speakers and sponsors
-
-Now we are supported by Ethereum Foundation (ESP) and Mycel.
+Now we are supported by Ethereum Foundation (ESP) and Mycel API3.
 
 ## Application Form 📝
 If you are interested in being a speaker, sponsor, or staying at the house, please apply using the following form:
