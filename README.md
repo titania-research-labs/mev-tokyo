@@ -1,5 +1,5 @@
 # MEV TOKYO 🗼🚀
-<img width="993" alt="mevtokyo" src="ogp.png">
+<img width="1000" alt="mev-tokyo" src="ogp.png">
 https://docs.google.com/presentation/d/11pwYl41WdwQQGujyBmF1FU6sb97FVByZn75HsTBOBqA/edit?usp=sharing
 
 ## Overview 📝
@@ -34,7 +34,7 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
 - Speakers:
   - [Tomasz Stańczak](https://x.com/tkstanczak) from Nethermind
   - [Barnabé Monnot](https://x.com/barnabemonnot) from Ethereum Foundation
-  - [Taetaehoho](https://x.com/0xtaetaehoho) from Eclipse
+  - [taetaehoho](https://x.com/0xtaetaehoho) from Eclipse
   - (To be added as confirmed)
 
 #### Aug 26 (Mon): Application DAY
@@ -50,6 +50,10 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
 - Our house is not a hacker house, but a research house. It is not a place to work on projects, but a place to discuss and research Ethereum.
 
 ## Sponsorship 🤝
+
+<img width="300" alt="ethereum-foundation" src="https://github.com/user-attachments/assets/323c1748-2fe0-4bf1-a9f7-526cdfb7c4e9">
+<img width="300" alt="mycel" src="https://github.com/user-attachments/assets/9244433a-39d5-44bf-8a20-c4c2af51b935">
+<img width="300" alt="api3" src="https://github.com/user-attachments/assets/4e912e5a-e8f1-42f2-82e3-f195beed4d21">
 
 Now we are supported by Ethereum Foundation (ESP) and Mycel, API3.
 
