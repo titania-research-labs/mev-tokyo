@@ -44,7 +44,8 @@ If you are interested in attending the event, please apply using the following p
 https://lu.ma/ei1byzjh
 
 #### Aug 26 (Mon): Application DAY
-![ethglobal (25)](https://github.com/user-attachments/assets/b265dc1e-d357-449d-a01c-9c20686acace)
+<img width="784" alt="スクリーンショット 2024-08-12 19 24 08" src="https://github.com/user-attachments/assets/79ec4660-513c-49d2-a2e1-08ff3f32a23a">
+
 
 
 - Content related to application incentives such as Sequencing (Based Preconfirmation, L2 sequencing), intents, LVR and DEX.
