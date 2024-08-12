@@ -37,7 +37,7 @@ The aim of MEV TOKYO is to contribute to problem-solving in Ethereum by sharing 
   - [Tomasz Stańczak](https://x.com/tkstanczak) from Nethermind
   - [Barnabé Monnot](https://x.com/barnabemonnot) from Ethereum Foundation
   - [taetaehoho](https://x.com/0xtaetaehoho) from Eclipse
-  - (To be added as confirmed)
+  
 
 If you are interested in attending the event, please apply using the following page:
 
@@ -50,7 +50,7 @@ https://lu.ma/ei1byzjh
 - Speakers: 
   - [Yuki Yuminaga](https://x.com/ballsyalchemist) from Sorella Labs
   - [Ugur Mersin](https://x.com/ugurmersin61?s=21&t=aRdEi_d8jttLkTojlCOoLA) from API3
-  - (To be added as confirmed)
+  - bt3gl from urani.trade
 
 If you are interested in attending the event, please apply using the following page:
 
