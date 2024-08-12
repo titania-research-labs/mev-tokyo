@@ -52,7 +52,7 @@ https://lu.ma/ei1byzjh
 - Speakers: 
   - [Yuki Yuminaga](https://x.com/ballsyalchemist) from Sorella Labs
   - [Ugur Mersin](https://x.com/ugurmersin61?s=21&t=aRdEi_d8jttLkTojlCOoLA) from API3
-  - bt3gl from urani.trade
+  - [bt3gl](https://github.com/mia-stein) from urani.trade
 
 If you are interested in attending the event, please apply using the following page:
 
