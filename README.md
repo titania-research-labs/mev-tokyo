@@ -44,7 +44,8 @@ If you are interested in attending the event, please apply using the following p
 https://lu.ma/ei1byzjh
 
 #### Aug 26 (Mon): Application DAY
-![mev-day-application](assets/mev-day-application.png)
+![ethglobal (25)](https://github.com/user-attachments/assets/b265dc1e-d357-449d-a01c-9c20686acace)
+
 
 - Content related to application incentives such as Sequencing (Based Preconfirmation, L2 sequencing), intents, LVR and DEX.
 - Speakers: 
